@@ -1,7 +1,7 @@
 
 window.targetGlobalSettings =
 {
-cookieDomain:"aem-rockstar.github.io"
+cookieDomain:"lakshyak13.github.io"
 };
 
 
